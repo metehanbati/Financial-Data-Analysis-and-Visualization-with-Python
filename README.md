@@ -65,10 +65,4 @@ pip install yfinance requests BeautifulSoup4 pandas plotly
     make_graph(gme_data, gme_revenue, 'GameStop')
     ```
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
